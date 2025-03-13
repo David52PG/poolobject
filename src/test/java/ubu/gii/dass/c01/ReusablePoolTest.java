@@ -21,7 +21,7 @@ import org.junit.jupiter.api.Test;
  * Clase de pruebas unitarias.
  *  @author Ibai Moya
  *  @author David Peñasco
- *  @author Nicolás Pérez
+ *  @author Nicolás Pérez.
  *  @author Juan García.
  * 
  */
